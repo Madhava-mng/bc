@@ -1,4 +1,3 @@
-BlockaNet (https://play.google.com/store/apps/details?id=com.ddm.blocknet)
 167.172.180.46:38098
 124.121.116.247:8080
 103.127.93.93:80
